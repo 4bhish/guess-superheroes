@@ -48,7 +48,7 @@ const quiz = [{
   answer:"gangadhar"
 },
 {
-  question:"who is stever rogers? ",
+  question:"who is steve rogers? ",
   answer:"captain america"
 }];
 
